@@ -30,15 +30,14 @@ python run_exp.py \
 ```
 
 
-<!-- ## Citing TTAB -->
 
-## Bibliography
+
+## Citation
 
 ```
-@inproceedings{zhao2023ttab,
-  title     = {On Pitfalls of Test-time Adaptation},
-  author    = {Zhao, Hao and Liu, Yuejiang and Alahi, Alexandre and Lin, Tao},
-  booktitle = {International Conference on Machine Learning (ICML)},
-  year      = {2023},
+@inproceedings{choiadaptive,
+  title={Adaptive Energy Alignment for Accelerating Test-Time Adaptation},
+  author={Choi, Wonjeong and Kim, Do-Yeon and Park, Jungwuk and Lee, Jungmoon and Park, Younghyun and Han, Dong-Jun and Moon, Jaekyun},
+  booktitle={The Thirteenth International Conference on Learning Representations}
 }
 ``` 
